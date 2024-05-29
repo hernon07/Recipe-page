@@ -4,7 +4,7 @@
 
 # Preview of the App
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![screenshot](/assets/images/tux.png)
 
 # Description
     A FrontendMentor challenge
