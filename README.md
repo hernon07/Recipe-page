@@ -4,7 +4,7 @@
 
 # Preview of the App
 
-![screenshot](/assets/images/tux.png)
+![Preview](Recipe-page.png)
 
 # Description
     A FrontendMentor challenge
